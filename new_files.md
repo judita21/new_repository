@@ -1,2 +1,3 @@
 #Ingredients
+- chickpeas
 #Instructions
