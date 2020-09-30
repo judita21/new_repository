@@ -16,3 +16,4 @@
 - eat it 
 - if there's some left... share it with others
 - Drink plenty of water
+- do your dishes
