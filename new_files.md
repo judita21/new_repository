@@ -1,3 +1,5 @@
-#Ingredients
+# Ingredients
 - chickpeas
-#Instructions
+- tahini
+- salt
+# Instructions
